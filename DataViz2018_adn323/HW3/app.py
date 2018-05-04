@@ -7,15 +7,16 @@ app.add_url_rule('/', 'root', lambda: app.send_static_file('Index.html'))
 @app.route('/vis/<zipcode>')
 def visualize(zipcode):
 
+    response = ''
+
     # ensure zipcode is string
     zipcode = str(zipcode)
 
-    response = ''
-
     data = dataPull(zipcode)
 
+
     if data is not None:
-        response = createChart(data, zipcode).to_json()
+         response = createChart(data, zipcode).to_json()
 
     return Response(response,
         mimetype='application/json',

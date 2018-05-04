@@ -44,7 +44,7 @@ class AppSelectingForm extends React.Component {
 
   handleSubmit(event) {
     //   var spec = "https://gist.githubusercontent.com/hvo/8febd426e3d12bd430aedc0cd8dd1d41/raw/766342b5a84455fb941607eede525a3b7193946a/DV_Lab7.vg.json";
-       var spec = `/vis/${this.state.zipcode}}`;
+       var spec = `/vis/${this.state.zipcode}`;
     vegaEmbed('#vis', spec, {actions:false});
     event.preventDefault();
   }
@@ -55,15 +55,13 @@ class AppSelectingForm extends React.Component {
 
                 <form onSubmit={this.handleSubmit}>
                     <label>
-                         <p class = "t1">Zipcode:<input type="text" size = "20" value={this.state.value} onChange={this.handleChange} placeholder="Input NYC Zipcode"/> <input type="submit" value="Update" />
+                         <p class = "t1">Zipcode:<input name="zipcode" type="text" size = "20" value={this.state.value} onChange={this.handleChange} placeholder="Input NYC Zipcode"/> <input type="submit" value="Update" />
                             </p>
                     </label>
                 </form>
     );
   }
 }
-
-
 
 
 ReactDOM.render(
