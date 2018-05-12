@@ -15,14 +15,6 @@ http://ando9.pythonanywhere.com/
 
 ![alt text](https://raw.githubusercontent.com/andrewnell/Data_Visualization/master/DataViz2018_adn323/Project/coffee_app_image.PNG)
 
-- Issues for now: 
-1. No Reset button to refresh to all cities and reset selections
-2. No Tooltips on coffee shops - this makes the tool much more useful and is essential to include
-3. The circle selection function is activated when the user clicks the screen. This should be changed.
-4. Visualization does not include reduced selection created by circle selection or what is in the screen when zooming in. It is currently hosted through PythonAnywhere rather than pulling from the Carto API.  
-5. No Legend indicating Size of circles
-
-
 - Instruction: 
 1. After you get into the page, you can select a city and unchecked boxes to customize the filter
 2. Then, you click the "update" buttom and a map with plots be shown on the right-hand side. 
