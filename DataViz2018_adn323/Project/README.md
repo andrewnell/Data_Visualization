@@ -21,7 +21,6 @@ http://ando9.pythonanywhere.com/
 3. Selection function: you can click the square box on the top right and then click the "selection" buttom. Doing this will enable the radius circle shown on the map. You can move the circle around and strech it in different sizes which displays coffee shops within the circle only. (This function will be activated automatically every time when you click the map).
 
 ## Objectives of the project
-#### A brief context of the project, and what tasks you're aiming to solve using visualizations, domain(target user) and task abstraction.
 We built a multifunctional web page which enables users to see all the available coffee shops in 25 cities around the United States under several filtering functions, such as price level, coffee shop types (as defined by us) and minimum rating.  Our target audience are coffee lovers and people looking for coffee shops with specific features, like bakeries and ice-cream. It's also a great tool for people who want to explore the coffee shop availability when deciding what area to move to, work in etc.
 
 
