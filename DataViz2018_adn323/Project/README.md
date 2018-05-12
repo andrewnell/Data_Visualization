@@ -56,8 +56,8 @@ Interactions:
 The visualization provides the user with a quick and easy tool which allows them to know a neighborhood/city regarding coffee shop availablity by different types, costs and ratings. With this tool, people can easily assess choices between different areas to live, work or meet someone. 
 
 - Shortcoming
-* The visualization has no tooltip that would make it easier for the user to identify the name of coffee shops. 
-* the chart does not updated based on selection circle or zoom of map, which means the user cannot understand the specific characteristics of a specific neighbourhood. 
+1. The visualization has no tooltip that would make it easier for the user to identify the name of coffee shops. 
+2. the chart does not updated based on selection circle or zoom of map, which means the user cannot understand the specific characteristics of a specific neighbourhood. 
 
 These two features should be improved. 
 
