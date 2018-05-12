@@ -28,6 +28,8 @@ We built a multifunctional web page which enables users to see all the available
 ## Data set involves
 Our project deals with data from coffee shops in 25 major American cities. This data did not exist in a clean format, so we wrote a script to interface with Yelp and Zillow APIs. The pulled data is then aggregated with a spatial join and concatenated to produce our final dataset. To perform initial exploratory analysis and to gain a better understanding of the 'coffee-shop-footprint' of different cities, we graphed location and plot data, as can be seen in our iPython Notebook. We used this analysis to inform our choice of relevant categories and to better anticipate what users may want to find on our web-visualization. 
 
+## Instructions on Reproducing the web Page
+
 ## Descriptions on your visualization design choices. For example, why you're choosing the types of visualization, representations, and/or interactions in your project.
 
 Visualization Representation:
