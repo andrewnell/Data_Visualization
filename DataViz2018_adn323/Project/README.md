@@ -20,6 +20,7 @@ http://ando9.pythonanywhere.com/
 2. No Tooltips on coffee shops - this makes the tool much more useful and is essential to include
 3. The circle selection function is activated when the user clicks the screen. This should be changed.
 4. Visualization does not include reduced selection created by circle selection or what is in the screen when zooming in. It is currently hosted through PythonAnywhere rather than pulling from the Carto API.  
+5. No Legend indicating Size of circles
 
 
 - Instruction: 
