@@ -1,5 +1,5 @@
 ## Find Coffee Shops in Populated Cities in US
---- Visualization Project CUSP
+CUSP Data Visualization Final Project
 
 ## Team members
 
