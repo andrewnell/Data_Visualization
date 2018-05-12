@@ -30,7 +30,7 @@ Our project deals with data from coffee shops in 25 major American cities. This 
 
 ## Instructions on Reproducing the web Page
 
-## Descriptions on your visualization design choices. For example, why you're choosing the types of visualization, representations, and/or interactions in your project.
+## Descriptions on your visualization design choices. 
 
 Visualization Representation:
 - Dot points indicating coffee shops on the map show the location of coffeeshops in 25 cities. The size of the points indicates the number of reviews available in the yelp data for different coffee places. The more reviews there are, the bigger the points will be. This provides an easy to use way to identify coffee shops in a neigjbpurhood that can meet specific criteria of the user. One major shortcoming is the exclusion of tooltips which would make the visualization much more effective for a user who could see what specific coffee shop they are looking at.
