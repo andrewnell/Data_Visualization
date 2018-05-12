@@ -47,9 +47,7 @@ Visualization Representation:
 
 1. A bar chart representing the proportion of different types of coffee meeting selection criteria
 2. A histogram showing distribution of coffee shops by rating.
-3. A histogram showing distribution of coffee shops by price.
-
-One major shortcoming is that it only updates on UI selection criteria rather than what is shown in the map when using the circle selection or zooming in. However, it provides enough insights for the users to compare cities. However this feature should eb added in. 
+3. A histogram showing distribution of coffee shops by price. 
 
 Interactions:
 - User Interface lets you select coffee shops based on city, type of coffee shop, cost and rating according to yelp, the results will be relected on charts and map. The user can also make modification and click the 'update' button to make charts and map update. 
