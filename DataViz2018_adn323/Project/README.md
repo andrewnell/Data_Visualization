@@ -16,8 +16,8 @@ http://ando9.pythonanywhere.com/
 ![alt text](https://raw.githubusercontent.com/andrewnell/Data_Visualization/master/DataViz2018_adn323/Project/coffee_app_image.PNG)
 
 - Instruction: 
-1. After you get into the page, you can select a city and unchecked boxes to customize the filter
-2. Then, you click the "update" buttom and a map with plots be shown on the right-hand side. 
+1. After you get into the page, you can select a city and unchecked boxes to customize the filter. (All checkboxes are checked as a default setting for testing purpose, since all coffee shops will be displayed at first sight. In real world practices, we will make our default setting as all things unchecked).
+2. Then, you click the "update" buttom and a map with plots be shown on the right-hand side. Besides, three histograms will be shown on the left bottom section.
 3. Selection function: you can click the square box on the top right and then click the "selection" buttom. Doing this will enable the radius circle shown on the map. You can move the circle around and strech it in different sizes which displays coffee shops within the circle only. (This function will be activated automatically every time when you click the map).
 
 ## Objectives of the project
