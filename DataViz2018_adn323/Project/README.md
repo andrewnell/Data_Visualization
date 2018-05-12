@@ -29,6 +29,14 @@ We built a multifunctional web page which enables users to see all the available
 Our project deals with data from coffee shops in 25 major American cities. This data did not exist in a clean format, so we wrote a script to interface with Yelp and Zillow APIs. The pulled data is then aggregated with a spatial join and concatenated to produce our final dataset. To perform initial exploratory analysis and to gain a better understanding of the 'coffee-shop-footprint' of different cities, we graphed location and plot data, as can be seen in our iPython Notebook (coffee_shop_final_notebook(1).ipynb). We used this analysis to inform our choice of relevant categories and to better anticipate what users may want to find on our web-visualization. 
 
 ## Instructions on Reproducing the web Page
+- Download the following three files and upload them to the pythonanywhere/mysite (An account and virtual environment need to be created, and Altair need to be installed first).
+1. index.html: our front-end webpage design
+2. app.py: connecting front-end with the back-end.
+3. CreateChart.py: histogram creating functions
+4. final_coffee.csv: final clean yelp dataset
+
+- Create a web page served on virtual env you created and connect it to app.py.
+- Access 'username'/pythonanywhere.com, which will be identical to our web page.
 
 ## Descriptions on your visualization design choices. 
 
@@ -58,7 +66,7 @@ These two features should be improved.
 
 
 ## Visualization Tools Used
-React, Javascript, Carto, Python, PythonAnywhere, 
+React, Javascript, Carto, Python, PythonAnywhere.
 
 
 
