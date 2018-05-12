@@ -18,7 +18,7 @@ http://ando9.pythonanywhere.com/
 - Instruction: 
 1. After you get into the page, you can select a city and unchecked boxes to customize the filter
 2. Then, you click the "update" buttom and a map with plots be shown on the right-hand side. 
-3. Selection function: you can click the square box on the top right and then click the "selection". Doing this will enable the radius circle shown on the map. You can move it around and strech it in different sizes and shows coffee shops within the circle only. (This function will be activated automatically every time when you click the map.
+3. Selection function: you can click the square box on the top right and then click the "selection" buttom. Doing this will enable the radius circle shown on the map. You can move the circle around and strech it in different sizes which displays coffee shops within the circle only. (This function will be activated automatically every time when you click the map).
 
 ## Objectives of the project
 #### A brief context of the project, and what tasks you're aiming to solve using visualizations, domain(target user) and task abstraction.
