@@ -1,5 +1,5 @@
 ## Title
-### Find Coffee Shops in 25 Populated Cities in US
+### Find Coffee Shops in Populated Cities in US
 --- Visualization Project CUSP
 
 ## Team members
@@ -11,10 +11,10 @@ Alex Shannon     NetID: acs882
 Baoling Zhou     NetID: bz882
 
 ## Visualization Link: 
-http://bl.ocks.org/baolingz/527ec140b20ffd5cb5aaa4662f471b5e
+http://ando9.pythonanywhere.com/
 
 
-![alt text](https://raw.githubusercontent.com/baolingz/Data_vis/master/coffee.png)
+![alt text](https://raw.githubusercontent.com/andrewnell/Data_Visualization/master/DataViz2018_adn323/Project/coffee_app_image.PNG)
 
 - Issues for now: 
 1. The histogram is static for now, it's supposed to be connected with the user interface. 
