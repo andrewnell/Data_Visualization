@@ -40,7 +40,7 @@ Our project deals with data from coffee shops in 25 major American cities. This 
 ## Descriptions on your visualization design choices. 
 
 Visualization Representation:
-- Dot points indicating coffee shops on the map show the location of coffeeshops in 25 cities. The size of the points indicates the number of reviews available in the yelp data for different coffee places. The more reviews there are, the bigger the points will be. This provides an easy way to identify coffee shops in a neigjbpurhood that meets specific criteria of the user. One major shortcoming is the exclusion of tooltips which would make the visualization much more effective for a user who could see what specific coffee shop they are looking at.
+- Dot points indicating coffee shops on the map show the location of coffeeshops in 25 cities. The color of the points represents the type of coffee shop corresponding to the legend of the charts. The size of the points indicates the number of reviews available in the yelp data for different coffee places. The more reviews there are, the bigger the points will be. This provides an easy way to identify coffee shops in a neigjbpurhood that meets specific criteria of the user. One major shortcoming is the exclusion of tooltips which would make the visualization much more effective for a user who could see what specific coffee shop they are looking at.
 
 - Graphical section on the bottom left contains three parts: all the charts were created based on coffee shops remained after UI filtering. This provides a quick and easy way of visualizing the distribution of coffee shops under the UI selection criteria. 
 
